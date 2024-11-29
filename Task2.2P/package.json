@@ -1,0 +1,21 @@
+{
+  "name": "task2.2p",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoldenBanksia/SIT725"
+  },
+  "author": "GoldenBanksia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoldenBanksia/SIT725/issues"
+  },
+  "homepage": "https://github.com/GoldenBanksia/SIT725/blob/main/README.md",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
